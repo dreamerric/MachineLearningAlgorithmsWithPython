@@ -78,7 +78,7 @@ def save_model(file_name, weights):
     f_w.close()
             
 if __name__ == "__main__":
-    inputfile = "SoftInput.txt"
+    inputfile = "data.txt"
     # 1、导入训练数据
     print("---------- 1.load data ------------")
     feature, label, k = load_data(inputfile)
