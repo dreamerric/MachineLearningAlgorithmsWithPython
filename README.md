@@ -3,5 +3,6 @@
 # Logistic Regression
 https://github.com/dreamerric/MachineLearningAlgorithmsWithPython/tree/master/LogisticRegerssion
 # Softmax Regression
+https://github.com/dreamerric/MachineLearningAlgorithmsWithPython/tree/master/SoftmaxRegression
 # Factorization Machine
 # SVM
