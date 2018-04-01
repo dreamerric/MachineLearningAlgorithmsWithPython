@@ -1,7 +1,5 @@
 
 # coding:UTF-8
-
-
 import numpy as np
 import random as rd
 from math import log 
