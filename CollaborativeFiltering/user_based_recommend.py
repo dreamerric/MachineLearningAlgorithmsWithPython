@@ -1,9 +1,4 @@
 # coding:UTF-8
-'''
-Date:20160928
-@author: zhaozhiyong
-'''
-
 import numpy as np
 
 def load_data(file_path):
