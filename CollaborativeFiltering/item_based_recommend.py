@@ -1,8 +1,5 @@
 # coding:UTF-8
-'''
-Date:20160928
-@author: zhaozhiyong
-'''
+
 
 import numpy as np
 from user_based_recommend import load_data, similarity
