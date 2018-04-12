@@ -1,8 +1,4 @@
 # coding=utf-8
-'''
-Date:20160930
-@author: zhaozhiyong
-'''
 
 import numpy as np
 
